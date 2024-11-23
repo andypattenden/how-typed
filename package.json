@@ -1,6 +1,6 @@
 {
   "name": "how-typed",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Calculates and outputs metrics on TypeScript vs JavaScript for a given directory",
   "type": "module",
   "files": [
